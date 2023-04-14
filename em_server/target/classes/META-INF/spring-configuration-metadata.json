@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "sms",
+      "type": "com.kum.utils.SmsUtils",
+      "sourceType": "com.kum.utils.SmsUtils"
+    }
+  ],
+  "properties": [
+    {
+      "name": "sms.appurl",
+      "type": "java.lang.String",
+      "sourceType": "com.kum.utils.SmsUtils"
+    },
+    {
+      "name": "sms.s-d-k-app-i-d",
+      "type": "java.lang.String",
+      "sourceType": "com.kum.utils.SmsUtils"
+    },
+    {
+      "name": "sms.s-d-k-app-key",
+      "type": "java.lang.String",
+      "sourceType": "com.kum.utils.SmsUtils"
+    },
+    {
+      "name": "sms.s-m-s-s-i-g-n",
+      "type": "java.lang.String",
+      "sourceType": "com.kum.utils.SmsUtils"
+    },
+    {
+      "name": "sms.secret-id",
+      "type": "java.lang.String",
+      "sourceType": "com.kum.utils.SmsUtils"
+    },
+    {
+      "name": "sms.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.kum.utils.SmsUtils"
+    }
+  ],
+  "hints": []
+}
